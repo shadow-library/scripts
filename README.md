@@ -1,3 +1,6 @@
+> **Archived — migrated to the [platform monorepo](https://github.com/shadow-library/platform).**
+> This code now lives at [`scripts`](https://github.com/shadow-library/platform/tree/main/scripts) with its full history; this repository is read-only.
+
 # @shadow-library/scripts
 
 A shared CLI for the Shadow Library ecosystem. It centralizes the workflows that were duplicated — and
